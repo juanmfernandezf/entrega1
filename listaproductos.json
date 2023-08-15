@@ -1,0 +1,51 @@
+{
+    "catID": 101,
+    "catName": "Autos",
+    "products": [
+        {
+            "id": 50921,
+            "product.nombre": "Chevrolet Onix Joy",
+            "product.descripcion": "Generación 2019, variedad de colores. Motor 1.0, ideal para ciudad.",
+            "cost": 13500,
+            "currency": "USD",
+            "soldCount": 14,
+            "product.imagen": "img/onix.jpg"
+        },
+        {
+            "id": 50922,
+            "product.nombre": "Fiat Way",
+            "product.descripcion": "La versión de Fiat que brinda confort y a un precio accesible.",
+            "cost": 14500,
+            "currency": "USD",
+            "soldCount": 52,
+            "product.imagen": "img/way.jpg"
+        },
+        {
+            "id": 50923,
+            "product.nombre": "Suzuki Celerio",
+            "product.descripcion": "Un auto que se ha ganado la buena fama por su economía con el combustible.",
+            "cost": 12500,
+            "currency": "USD",
+            "soldCount": 25,
+            "product.imagen": "img/celerio.jpg"
+        },
+        {
+            "id": 50924,
+            "product.nombre": "Peugeot 208",
+            "product.descripcion": "El modelo de auto que se sigue renovando y manteniendo su prestigio en comodidad.",
+            "cost": 15200,
+            "currency": "USD",
+            "soldCount": 17,
+            "product.imagen": "img/208.jpg"
+        },
+        {
+            "id": 50925,
+            "product.nombre": "Bugatti Chiron",
+            "product.descripcion": "El mejor hiperdeportivo de mundo. Producción limitada a 500 unidades.",
+            "cost": 3500000,
+            "currency": "USD",
+            "soldCount": 0,
+            "product.imagen": "img/bugati.jpg"
+        }
+    ]
+}
